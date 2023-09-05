@@ -1,5 +1,19 @@
 # xlog
 
+## 0.22.0
+
+### Minor Changes
+
+- 0c3cc1d: Customized tab bar.
+- addb165: Compeleted the new feed page.
+
+### Patch Changes
+
+- ccb5eb7: Login directly in the introduction page.
+- d7029b5: New profile page.
+- d8e578b: Some style changes.
+- e0d04f3: Optimized tab animation in the home page.
+
 ## 0.21.1
 
 ### Patch Changes
